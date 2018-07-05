@@ -46,7 +46,7 @@ Para esto necesitas hacer un pull request. A continuación te mostramos los paso
 1. Ve a nuestro repositorio: [https://github.com/code-crafters/crafters-fridays](https://github.com/code-crafters/crafters-fridays).
 2. Da clic en el botón New pull request para ser redireccionado a [https://github.com/code-crafters/crafters-fridays/compare?expand=1](https://github.com/code-crafters/crafters-fridays/compare?expand=1).
 3. Da clic en donde dice compare accross fork. Si pones atención te muestra cuatro select boxes.
-    1 Cada select box, vistos de izquierda a derecha, contene un texto similar a este: base fork: code-craters/crafters-fridays, base:master, head fork: code-crafters/crafters-fridays, compare: master. 
+    1. Cada select box, vistos de izquierda a derecha, contene un texto similar a este: base fork: code-craters/crafters-fridays, base:master, head fork: code-crafters/crafters-fridays, compare: master. 
     2. En el select vox que dice head fork: code-crafters/crafters-fridays debes de buscar tu repositorio: por ejemplo el mio sería jesuslerma/crafters-fridays y en el siguiente select box seleccionar el branch en donde tienes la solución, en mi caso es master.
     3. Al hacer esos cambios los botones tendrán el siguiente texto: istos de izquierda a derecha, contene un texto similar a este: base fork: code-craters/crafters-fridays, base:master, head fork: jesuslerma/crafters-fridays, compare: master. 
 4. Cuando hagas el paso anterior momento vas a tener una previsualización de los cambios agregados.
@@ -70,4 +70,20 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 * [Juan C. del Valle](https://github.com/imekinox), Python, https://gist.github.com/imekinox/48221a083faddd9aeb2b0600cb97c194.
 * [Javier Garza Cantisani](https://github.com/javiergarzac), Javascript, https://gist.github.com/javiergarzac/a767f6b1c2887f1b9688c735b9f1d684 .
 * [Rodolfo Montes G.](https://github.com/rodolfomg), C, https://gist.github.com/rodolfomg/6db0ef03e015ecc3dd7edfe34e9e4732 .
+* [Miguel Puerto](https://github.com/mike890), (js html), https://jsfiddle.net/atki890/w4g6pva9/3/
+* [Armando Martínez](https://github.com/jmartinezpena), C#, [Find Digits](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge001)
 
+# Reto 2:
+## Anagramas.
+[Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-002.html) encontrarás las instrucciones del ejercicio.
+Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
+### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
+* [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
+* [Armando Martínez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
+
+# Reto 3:
+## Torneo de futbol
+[Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-003.html) encontrars las instrucciones del ejercicio.
+### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
